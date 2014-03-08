@@ -1,0 +1,13 @@
+syntax on
+
+filetype indent on
+filetype plugin on
+
+set ai ts=3 st=3 sw=3 expandtab incsearch ignorecase smartcase smartindent
+set backspace=indent,eol,start
+set number ruler nowrap
+set nobackup
+
+
+
+
