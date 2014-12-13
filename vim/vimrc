@@ -8,6 +8,6 @@ set backspace=indent,eol,start
 set number ruler nowrap
 set nobackup
 
-colorscheme distinguished
+colorscheme dracula
 
-
+set guifont=Monaco:h13
