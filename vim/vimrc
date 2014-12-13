@@ -10,4 +10,4 @@ set nobackup
 
 colorscheme dracula
 
-set guifont=Monaco:h13
+set bg=dark
